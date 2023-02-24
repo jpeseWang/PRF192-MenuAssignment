@@ -1,0 +1,8 @@
+# ninja log v5
+1	35	1677205685132800885	CMakeFiles/PRFAssignment_main.dir/options/option5.c.o	11296205d51fe42e
+1	36	1677205685131413056	CMakeFiles/PRFAssignment_main.dir/options/option6.c.o	948fc2d6ad4b5420
+0	42	1677205685140443986	CMakeFiles/PRFAssignment_main.dir/options/option2.c.o	fcf9cf8122a65bd5
+1	63	1677205685162683498	CMakeFiles/PRFAssignment_main.dir/options/option4.c.o	5a84f4ad8a07aeb1
+0	63	1677205685163695912	CMakeFiles/PRFAssignment_main.dir/options/option3.c.o	71cbfa2ef7c1fa43
+0	67	1677205685167892440	CMakeFiles/PRFAssignment_main.dir/options/option1.c.o	a598625c22dc7a87
+35	88	1677205685191983780	CMakeFiles/PRFAssignment_main.dir/main.c.o	7fe6f407f41f6e3e
